@@ -5,3 +5,6 @@ This sample automation runbook onboards an Azure VM for either the Update or Cha
 This is an update of the existing Enable-AutomationSolution.ps1 with multiple bug-fixes and updates to use new Az-module
 
 Remebmer to read the description in Enable-AutomationSolutionAz.ps1 for how to use in Azure Automation account
+
+A runbook to clean the saved searches can be found here:
+https://github.com/mortenlerudjordet/runbooks/blob/master/Utility/ARM/Format-AutomationSolutionSearchAz.ps1
